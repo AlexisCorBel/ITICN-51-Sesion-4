@@ -1,17 +1,26 @@
-# users_app
+📱 ITICN-51 – Sesión 4
+Aplicación Flutter con consumo de API
 
-A new Flutter project.
+Este proyecto corresponde a la actividad práctica de la sesión 4 de la materia Programación de Aplicaciones para Dispositivos Móviles.
 
-## Getting Started
+La aplicación consiste en una app multiplataforma desarrollada con Flutter que consume datos desde una API pública y muestra una lista de usuarios con información detallada.
 
-This project is a starting point for a Flutter application.
+Los estudiantes aprenden a integrar servicios web, manejo de asincronía y navegación entre pantallas dentro de una aplicación móvil.
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+La aplicación incluye las siguientes características:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Consumo de datos desde una API REST.
+
+Manejo de programación asíncrona con Future y async/await.
+
+Visualización de usuarios en una lista dinámica.
+
+Navegación entre pantallas.
+
+Vista de detalle de cada usuario.
+
+Carga de imágenes desde internet.
+
+Manejo básico de errores al obtener datos.
